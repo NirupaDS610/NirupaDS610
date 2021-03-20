@@ -1,1 +1,14 @@
-
+h1 {
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  font-size: 30px;
+}
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<style>
+body {
+  font-family: "Sofia", sans-serif;
+}
+</style>
+</head>
